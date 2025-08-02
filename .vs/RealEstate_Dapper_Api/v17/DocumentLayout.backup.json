@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Staj\\RealEstate_Dapper_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F88309CA-29F4-4FBD-A379-ACDF9D225834}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\lenovo\\desktop\\staj\\realestate_dapper_api\\realestate_dapper_ui\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F88309CA-29F4-4FBD-A379-ACDF9D225834}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88309CA-29F4-4FBD-A379-ACDF9D225834}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\lenovo\\desktop\\staj\\realestate_dapper_api\\realestate_dapper_ui\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88309CA-29F4-4FBD-A379-ACDF9D225834}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88309CA-29F4-4FBD-A379-ACDF9D225834}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|c:\\users\\lenovo\\desktop\\staj\\realestate_dapper_api\\realestate_dapper_ui\\views\\shared\\_memberlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F88309CA-29F4-4FBD-A379-ACDF9D225834}|RealEstate_Dapper_UI\\RealEstate_Dapper_UI.csproj|solutionrelative:realestate_dapper_ui\\views\\shared\\_memberlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Staj\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Profile\\Index.cshtml",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Views\\Profile\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Staj\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Profile\\Index.cshtml",
+              "RelativeToolTip": "RealEstate_Dapper_UI\\Views\\Profile\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T18:37:35.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Staj\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Staj\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "RealEstate_Dapper_UI\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T18:36:51.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_MemberLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Staj\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Shared\\_MemberLayout.cshtml",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_UI\\Views\\Shared\\_MemberLayout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Staj\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\Views\\Shared\\_MemberLayout.cshtml",
+              "RelativeToolTip": "RealEstate_Dapper_UI\\Views\\Shared\\_MemberLayout.cshtml",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAiwNwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T18:35:21.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
