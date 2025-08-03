@@ -15,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{96528595-77DC-4859-A7BF-78538F58D934}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\repositories\\categoryrepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96528595-77DC-4859-A7BF-78538F58D934}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|c:\\users\\lenovo\\desktop\\staj\\realestate_dapper_api\\realestate_dapper_api\\dtos\\categorydtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96528595-77DC-4859-A7BF-78538F58D934}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\dtos\\categorydtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96528595-77DC-4859-A7BF-78538F58D934}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|c:\\users\\lenovo\\desktop\\staj\\realestate_dapper_api\\realestate_dapper_api\\dtos\\categorydtos\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96528595-77DC-4859-A7BF-78538F58D934}|RealEstate_Dapper_Api\\RealEstate_Dapper_Api.csproj|solutionrelative:realestate_dapper_api\\dtos\\categorydtos\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,14 +39,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CreateCategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Staj\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Dtos\\CategoryDtos\\CreateCategoryDto.cs",
-              "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Dtos\\CategoryDtos\\CreateCategoryDto.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Staj\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Dtos\\CategoryDtos\\CreateCategoryDto.cs",
-              "RelativeToolTip": "RealEstate_Dapper_Api\\Dtos\\CategoryDtos\\CreateCategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "UpdateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Staj\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Dtos\\CategoryDtos\\UpdateCategoryDto.cs",
+              "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Dtos\\CategoryDtos\\UpdateCategoryDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Staj\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Dtos\\CategoryDtos\\UpdateCategoryDto.cs",
+              "RelativeToolTip": "RealEstate_Dapper_Api\\Dtos\\CategoryDtos\\UpdateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T12:18:36.877Z",
+              "WhenOpened": "2025-08-03T14:49:16.409Z",
               "EditorCaption": ""
             },
             {
@@ -57,7 +57,7 @@
               "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Repositories\\CategoryRepository\\CategoryRepository.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Staj\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Repositories\\CategoryRepository\\CategoryRepository.cs",
               "RelativeToolTip": "RealEstate_Dapper_Api\\Repositories\\CategoryRepository\\CategoryRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDMAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-03T12:16:14.327Z",
               "EditorCaption": ""
@@ -70,7 +70,7 @@
               "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Repositories\\CategoryRepository\\ICategoryRepository.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Staj\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Repositories\\CategoryRepository\\ICategoryRepository.cs",
               "RelativeToolTip": "RealEstate_Dapper_Api\\Repositories\\CategoryRepository\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-03T12:12:46.904Z",
               "EditorCaption": ""
@@ -83,7 +83,7 @@
               "RelativeDocumentMoniker": "RealEstate_Dapper_Api\\Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Staj\\RealEstate_Dapper_Api\\RealEstate_Dapper_Api\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "RealEstate_Dapper_Api\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-03T10:17:20.539Z",
               "EditorCaption": ""
